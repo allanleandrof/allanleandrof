@@ -1,6 +1,6 @@
 ## Olá!! me chamo Allan
 
-- 💻Atualemte sou estudante de engenharia de computação na UFPB
+- 💻Atualmente sou estudante de engenharia de computação na UFPB
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
