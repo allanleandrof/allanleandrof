@@ -1,6 +1,6 @@
 ## Olá!! me chamo Allan
 
-- 💻Atualmente sou estudante de engenharia de computação na UFPB
+- 💻Atualmente sou estudante de ciencias da computação na UFPB
 
 <div align="center">
   <a href="https://github.com/allanleandrof">
