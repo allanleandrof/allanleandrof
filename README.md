@@ -1,20 +1,9 @@
-# Olá! Eu sou Allan Leandro/ Hello! I'm Allan Leandro 👋
-
-## Sobre mim
-- 💻 Atualmente sou estudante de Ciências da Computação na UFPB.
-- 🎮 Apaixonado por tecnologia, programação e jogos eletrônicos.
-- 📚 Sempre em busca de aprender e compartilhar conhecimentos.
+# Hello! I'm Allan Leandro 👋
 
 ## About me
 - 💻 Currently, I am a Computer Science student at UFPB.
 - 🎮 Passionate about technology, programming, and video games.
 - 📚 Always looking to learn and share knowledge.
-
-## GitHub Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanleandrof&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanleandrof&layout=compact&langs_count=7&theme=gotham"/>
-</div>
 
 ## Tecnologias e Ferramentas/ Technologies and Tools
 <div style="display: inline_block"><br>
@@ -28,7 +17,7 @@
   <img align="center" alt="All-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-## Conecte-se comigo/ Connect with me
+## Connect with me
 <div> 
   <a href="https://instagram.com/allanleandrof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/scylle150" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
