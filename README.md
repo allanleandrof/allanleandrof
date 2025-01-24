@@ -2,7 +2,6 @@
 
 ## About me
 - 💻 Currently, I am a Computer Science student at UFPB.
-- 🎮 Passionate about technology, programming, and video games.
 - 📚 Always looking to learn and share knowledge.
 
 ## Tecnologias e Ferramentas/ Technologies and Tools
